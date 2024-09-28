@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "5fe2fc0bddc5de1e449713c2"
+  },
+  "semester": "1",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fe6ba9da9d0345048998566"
+      },
+      "subjectName": "Intergrals",
+      "fileName": "Mathematics_1_Intergrals.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "600147eab86ba447e45220b3"
+      },
+      "subjectName": "Advanced Mathematics",
+      "fileName": "Mathematics_1_Advanced Mathematics.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fe6babba9d0345048998569"
+  },
+  "semester": "2",
+  "__v": 0,
+  "notes": []
+}]

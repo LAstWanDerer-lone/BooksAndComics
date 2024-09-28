@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "5fdd768f26ef665074dfd23a"
+  },
+  "semester": "3",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd768f26ef665074dfd239"
+      },
+      "subjectName": "Network Analysis",
+      "fileName": "ECE_3_Network Analysis.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd76ac26ef665074dfd23b"
+      },
+      "subjectName": "Engineering Electromagnetics",
+      "fileName": "ECE_3_Engineering Electromagnetics.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd76d026ef665074dfd23d"
+      },
+      "subjectName": "Electronic Instrumentation",
+      "fileName": "ECE_3_Electronic Instrumentation.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7ddf226869646b8ad2db1"
+  },
+  "semester": "4",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7ddf226869646b8ad2db0"
+      },
+      "subjectName": "Complex Analysis, Probability and Statistical Methods",
+      "fileName": "ECE_4_Complex Analysis, Probability and Statistical Methods.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7de0726869646b8ad2db2"
+      },
+      "subjectName": "Microcontroller",
+      "fileName": "ECE_4_Microcontroller.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7de3c26869646b8ad2db6"
+      },
+      "subjectName": "Signals & Systems",
+      "fileName": "ECE_4_Signals & Systems.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7de4a26869646b8ad2db9"
+  },
+  "semester": "5",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7de4a26869646b8ad2db8"
+      },
+      "subjectName": "Management and Entrepreneurship Development",
+      "fileName": "ECE_5_Management and Entrepreneurship Development.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7de8926869646b8ad2dba"
+      },
+      "subjectName": "Verilog HDL",
+      "fileName": "ECE_5_Verilog HDL.pdf"
+    }
+  ]
+}]

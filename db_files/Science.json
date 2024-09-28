@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "5ff7ea2df79ea63ffc0dcdde"
+  },
+  "semester": "2",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7ea2df79ea63ffc0dcddd"
+      },
+      "subjectName": "Physics",
+      "fileName": "Science_2_Physics.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "6001460db86ba447e45220ac"
+      },
+      "subjectName": "Chemistry",
+      "fileName": "Science_2_Chemistry.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "600145efb86ba447e45220ab"
+  },
+  "semester": "1",
+  "__v": 0,
+  "notes": []
+}]

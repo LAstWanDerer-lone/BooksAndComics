@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "5fdd7ab026ef665074dfd244"
+  },
+  "semester": "4",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd7ab026ef665074dfd243"
+      },
+      "subjectName": "BASIC THERMODYNAMICS",
+      "fileName": "Mech_4_BASIC THERMODYNAMICS.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd7ada26ef665074dfd245"
+      },
+      "subjectName": "MATERIAL SCIENCE",
+      "fileName": "Mech_4_MATERIAL SCIENCE.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdd7b2a26ef665074dfd248"
+  },
+  "semester": "5",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd7b2a26ef665074dfd247"
+      },
+      "subjectName": "TURBO MACHINES",
+      "fileName": "Mech_5_TURBO MACHINES.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e07e26869646b8ad2dc0"
+      },
+      "subjectName": "Dynamics of Machinery",
+      "fileName": "Mech_5_Dynamics of Machinery.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7decf26869646b8ad2dbd"
+  },
+  "semester": "6",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7decf26869646b8ad2dbc"
+      },
+      "subjectName": "Finite Element Analysis",
+      "fileName": "Mech_6_Finite Element Analysis.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e04d26869646b8ad2dbe"
+      },
+      "subjectName": "Computer Integrated Manufacturing",
+      "fileName": "Mech_6_Computer Integrated Manufacturing.pdf"
+    }
+  ]
+}]

@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5fdd729426ef665074dfd22e"
+  },
+  "semester": "3",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd729426ef665074dfd22d"
+      },
+      "subjectName": "Analog Electronic Circuits",
+      "fileName": "EEE_3_Analog Electronic Circuits.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd72b726ef665074dfd22f"
+      },
+      "subjectName": "Digital System Design",
+      "fileName": "EEE_3_Digital System Design.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdd72e226ef665074dfd232"
+  },
+  "semester": "5",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd72e226ef665074dfd231"
+      },
+      "subjectName": "Microcontroller",
+      "fileName": "EEE_5_Microcontroller.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd732226ef665074dfd233"
+      },
+      "subjectName": "Power Electronics",
+      "fileName": "EEE_5_Power Electronics.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdd737b26ef665074dfd236"
+  },
+  "semester": "4",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd737b26ef665074dfd235"
+      },
+      "subjectName": "Electromagnetic Field Theory",
+      "fileName": "EEE_4_Electromagnetic Field Theory.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd73b526ef665074dfd237"
+      },
+      "subjectName": "Operational Amplifiers and Linear ICs",
+      "fileName": "EEE_4_Operational Amplifiers and Linear ICs.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7dd6926869646b8ad2dad"
+  },
+  "semester": "6",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7dd6926869646b8ad2dac"
+      },
+      "subjectName": "Control Systems",
+      "fileName": "EEE_6_Control Systems.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7dd8d26869646b8ad2dae"
+      },
+      "subjectName": "Electrical Machine Design",
+      "fileName": "EEE_6_Electrical Machine Design.pdf"
+    }
+  ]
+}]

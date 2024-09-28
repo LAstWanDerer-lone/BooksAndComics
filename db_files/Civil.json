@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "5fdd77d126ef665074dfd240"
+  },
+  "semester": "5",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdd77d126ef665074dfd23f"
+      },
+      "subjectName": "ANALYSIS OF INDETERMINATE STRUCTURES",
+      "fileName": "Civil_5_ANALYSIS OF INDETERMINATE STRUCTURES.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdd77ee26ef665074dfd241"
+      },
+      "subjectName": "HIGHWAY ENGINEERING",
+      "fileName": "Civil_5_HIGHWAY ENGINEERING.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7e0a526869646b8ad2dc3"
+  },
+  "semester": "3",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7e0a526869646b8ad2dc2"
+      },
+      "subjectName": "Transform Calculus, Fourier Series and Numerical Techniques",
+      "fileName": "Civil_3_Transform Calculus, Fourier Series and Numerical Techniques.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e0b326869646b8ad2dc4"
+      },
+      "subjectName": "Strength of Materials",
+      "fileName": "Civil_3_Strength of Materials.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e0c626869646b8ad2dc6"
+      },
+      "subjectName": "Engineering Geology",
+      "fileName": "Civil_3_Engineering Geology.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e0d826869646b8ad2dc8"
+      },
+      "subjectName": "Building Materials Testing Laboratory",
+      "fileName": "Civil_3_Building Materials Testing Laboratory.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5ff7e1f420a0d642bca229b0"
+  },
+  "semester": "4",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5ff7e1f420a0d642bca229af"
+      },
+      "subjectName": "Complex Analysis, Probability and Statistical Methods",
+      "fileName": "Civil_4_Complex Analysis, Probability and Statistical Methods.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e20c20a0d642bca229b1"
+      },
+      "subjectName": "Additional Mathematics - II",
+      "fileName": "Civil_4_Additional Mathematics - II.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5ff7e21e20a0d642bca229b3"
+      },
+      "subjectName": "Water Supply & Treatment Engineering",
+      "fileName": "Civil_4_Water Supply & Treatment Engineering.pdf"
+    }
+  ]
+}]

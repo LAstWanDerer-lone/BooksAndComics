@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "5fc48aa18ebd933684c0fd9c"
+  },
+  "firstName": "Praveen ",
+  "lastName": "Parihar",
+  "college": "BNM Institute Of Technology",
+  "email": "praveenparihar687@gmail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc6127106d96e52a0781652"
+  },
+  "firstName": "Rohit",
+  "lastName": "Sajjan",
+  "college": "BNM Institute Of Technology",
+  "email": "rohit@gmail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc9e3085cb4ab61cc4d487d"
+  },
+  "firstName": "vaibhav",
+  "lastName": "p",
+  "college": "bnmit",
+  "email": "vaibhav687@gmail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fce208a9882e85144847605"
+  },
+  "firstName": "Priyanshu",
+  "lastName": "M",
+  "college": "BNMIT",
+  "email": "priyanshu@gmail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdd7dd726ef665074dfd249"
+  },
+  "firstName": "Rakshith",
+  "lastName": "R",
+  "college": "M.S Ramaiah Institute Of Technology",
+  "email": "rakshith@mail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60014557b86ba447e45220a8"
+  },
+  "firstName": "Rohit",
+  "lastName": "Sharma",
+  "college": "BNM Institute of Technology",
+  "email": "rohitsharma@gmail.com",
+  "password": "abcd1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60014751b86ba447e45220ae"
+  },
+  "firstName": "Virat",
+  "lastName": "Sharma",
+  "college": "BNM Institute of Technology",
+  "email": "virat@gmail.com",
+  "password": "Abcd1234",
+  "__v": 0
+}]

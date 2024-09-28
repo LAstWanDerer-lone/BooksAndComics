@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "5fdad9b04a8e2d20e0d4e68b"
+  },
+  "semester": "3",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdad9b04a8e2d20e0d4e68a"
+      },
+      "subjectName": "Data Structures And  Applications",
+      "fileName": "CSE_3_Data Structures And  Applications.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdad9f14a8e2d20e0d4e68c"
+      },
+      "subjectName": "Analog and Digital Electronics",
+      "fileName": "CSE_3_Analog and Digital Electronics.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdadb9b4a8e2d20e0d4e68e"
+      },
+      "subjectName": "Computer Organization",
+      "fileName": "CSE_3_Computer Organization.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdadfc34a8e2d20e0d4e690"
+      },
+      "subjectName": "Discrete Mathematical Structures",
+      "fileName": "CSE_3_Discrete Mathematical Structures.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fddb58b729b2f24a8f5164a"
+      },
+      "subjectName": "Information And Network Security ",
+      "fileName": "CSE_3_Information And Network Security .pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdae00b4a8e2d20e0d4e693"
+  },
+  "semester": "4",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdae00b4a8e2d20e0d4e692"
+      },
+      "subjectName": "Design and Analysis of Algorithms",
+      "fileName": "CSE_4_Design and Analysis of Algorithms.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae0324a8e2d20e0d4e694"
+      },
+      "subjectName": "Operating System",
+      "fileName": "CSE_4_Operating System.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae05e4a8e2d20e0d4e696"
+      },
+      "subjectName": "Object Oriented Concepts",
+      "fileName": "CSE_4_Object Oriented Concepts.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae0864a8e2d20e0d4e698"
+      },
+      "subjectName": "Data Communication",
+      "fileName": "CSE_4_Data Communication.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdae0c44a8e2d20e0d4e69b"
+  },
+  "semester": "5",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdae0c44a8e2d20e0d4e69a"
+      },
+      "subjectName": "Management and Entrepreneurship for IT Industry",
+      "fileName": "CSE_5_Management and Entrepreneurship for IT Industry.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae0f84a8e2d20e0d4e69c"
+      },
+      "subjectName": "Computer Network",
+      "fileName": "CSE_5_Computer Network.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae1374a8e2d20e0d4e69e"
+      },
+      "subjectName": "Database Management System",
+      "fileName": "CSE_5_Database Management System.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae16c4a8e2d20e0d4e6a0"
+      },
+      "subjectName": "Automata Theory and Computability",
+      "fileName": "CSE_5_Automata Theory and Computability.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae19c4a8e2d20e0d4e6a2"
+      },
+      "subjectName": "Advanced Java and J2EE",
+      "fileName": "CSE_5_Advanced Java and J2EE.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae1e74a8e2d20e0d4e6a6"
+      },
+      "subjectName": "Advanced Computer Architectures",
+      "fileName": "CSE_5_Advanced Computer Architectures.pdf"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "5fdae1cc4a8e2d20e0d4e6a5"
+  },
+  "semester": "6",
+  "__v": 0,
+  "notes": []
+},{
+  "_id": {
+    "$oid": "5fdae2034a8e2d20e0d4e6a9"
+  },
+  "semester": "7",
+  "__v": 0,
+  "notes": [
+    {
+      "_id": {
+        "$oid": "5fdae2034a8e2d20e0d4e6a8"
+      },
+      "subjectName": "Storage Area Networks",
+      "fileName": "CSE_7_Storage Area Networks.pdf"
+    },
+    {
+      "_id": {
+        "$oid": "5fdae2524a8e2d20e0d4e6ac"
+      },
+      "subjectName": "Web Technology and its Applications",
+      "fileName": "CSE_7_Web Technology and its Applications.pdf"
+    }
+  ]
+}]
